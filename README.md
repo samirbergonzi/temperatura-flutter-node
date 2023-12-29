@@ -66,7 +66,7 @@ Este repositório contém um exemplo simples de um aplicativo Flutter para consu
 
 O aplicativo Flutter agora deve ser capaz de se comunicar com o servidor Node.js para obter a temperatura da cidade especificada.
 
-![FlutterAPP](FlutterAPP.png)
+<img src="https://github.com/samirbergonzi/temperatura-flutter-node/blob/main/FlutterAPP.png" width="100" height="100">
 
 Lembre-se de ajustar as configurações conforme necessário para o seu ambiente de desenvolvimento. Se você estiver usando um dispositivo físico para testar o aplicativo, certifique-se de que o dispositivo esteja na mesma rede que o servidor Node.js.
 
