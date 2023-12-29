@@ -38,7 +38,7 @@ Este repositório contém um exemplo simples de um aplicativo Flutter para consu
 1. **Acesse o diretório do aplicativo Flutter:**
 
     ```bash
-    cd temperatura-flutter-node/AppCode
+    cd temperatura-flutter-node/AppFlutter
     ```
 
 2. **Certifique-se de ter o Flutter instalado. Se não tiver, [instale-o](https://flutter.dev/docs/get-started/install).**
