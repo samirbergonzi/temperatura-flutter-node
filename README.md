@@ -3,8 +3,8 @@
 Este repositório contém um exemplo simples de um aplicativo Flutter para consultar a temperatura de uma cidade usando um servidor Node.js como backend.
 
 
-![Flutter_Logo](flutter-logo.png){:height="100px" width="100px"}
-![Node_Logo](Node.png){:height="120px" width="1200px"}
+![Flutter_Logo](flutter-logo.png | width=100)
+![Node_Logo](Node.png| width=100)
 
 ## Configurando o Servidor Node.js
 
